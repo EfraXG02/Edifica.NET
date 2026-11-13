@@ -1,0 +1,7 @@
+{
+  "name": "BlazorForge - Academia C#, Blazor & Azure",
+  "description": "Plataforma acadêmica com teoria aprofundada, quizzes interativos, desafios práticos de código e um projeto Blazor que evolui dinamicamente conforme você aprende.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
